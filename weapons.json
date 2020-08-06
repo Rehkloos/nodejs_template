@@ -1,0 +1,422 @@
+{
+  "data": [{
+    "name": "Ares",
+    "category": "Heavy",
+    "price": 1600,
+    "damage": {
+      "head": {
+        "0-30": 72,
+        "30-50": 67
+      },
+      "body": {
+        "0-30": 30,
+        "30-50": 28
+      },
+      "leg": {
+        "0-30": 25,
+        "30-50": 23
+      }
+    },
+    "firerate": 12,
+    "penetration": "high",
+    "magazinsize": 100,
+    "runspeed": 0.76,
+    "reload": 5,
+    "firstbulletacc": 0.8
+  }, {
+    "name": "Bucky",
+    "category": "Shotgun",
+    "price": 900,
+    "damage": {
+      "head": {
+        "0-8": 44,
+        "8-12": 34,
+        "12-50": 18
+      },
+      "body": {
+        "0-8": 22,
+        "8-12": 17,
+        "12-50": 9
+      },
+      "leg": {
+        "0-8": 19,
+        "8-12": 14,
+        "12-50": 8
+      }
+    },
+    "firerate": 1.1,
+    "penetration": "low",
+    "magazinsize": 5,
+    "runspeed": 0.75,
+    "reload": 2.5,
+    "firstbulletacc": 3.4,
+    "image": null
+  }, {
+    "name": "Bulldog",
+    "category": "Rifle",
+    "price": 2100,
+    "damage": {
+      "head": {
+        "0-50": 116
+      },
+      "body": {
+        "0-50": 35
+      },
+      "leg": {
+        "0-50": 30
+      }
+    },
+    "firerate": 9.15,
+    "penetration": "medium",
+    "magazinsize": 24,
+    "runspeed": 0.8,
+    "reload": 2.5,
+    "firstbulletacc": 0.3
+  }, {
+    "name": "Classic",
+    "category": "Sidearm",
+    "price": 0,
+    "damage": {
+      "head": {
+        "0-30": 78,
+        "30-50": 66
+      },
+      "body": {
+        "0-30": 26,
+        "30-50": 22
+      },
+      "leg": {
+        "0-30": 22,
+        "30-50": 18
+      }
+    },
+    "firerate": 6.75,
+    "penetration": "low",
+    "magazinsize": 12,
+    "runspeed": 0.85,
+    "reload": 1.75,
+    "firstbulletacc": 0.4
+  }, {
+    "name": "Frenzy",
+    "category": "Sidearm",
+    "price": 400,
+    "damage": {
+      "head": {
+        "0-20": 78,
+        "20-50": 63
+      },
+      "body": {
+        "0-20": 26,
+        "20-50": 21
+      },
+      "leg": {
+        "0-20": 22,
+        "20-50": 17
+      }
+    },
+    "firerate": 10,
+    "penetration": "low",
+    "magazinsize": 13,
+    "runspeed": 0.85,
+    "reload": 1.5,
+    "firstbulletacc": 0.45
+  }, {
+    "name": "Ghost",
+    "category": "Sidearm",
+    "price": 500,
+    "damage": {
+      "head": {
+        "0-30": 105,
+        "30-50": 87
+      },
+      "body": {
+        "0-30": 30,
+        "30-50": 25
+      },
+      "leg": {
+        "0-30": 25,
+        "30-50": 21
+      }
+    },
+    "firerate": 6.75,
+    "penetration": "medium",
+    "magazinsize": 15,
+    "runspeed": 0.85,
+    "reload": 1.5,
+    "firstbulletacc": 0.3
+  }, {
+    "name": "Guardian",
+    "category": "Rifle",
+    "price": 2700,
+    "damage": {
+      "head": {
+        "0-50": 195
+      },
+      "body": {
+        "0-50": 65
+      },
+      "leg": {
+        "0-50": 49
+      }
+    },
+    "firerate": 6.5,
+    "penetration": "medium",
+    "magazinsize": 12,
+    "runspeed": 0.8,
+    "reload": 2.5,
+    "firstbulletacc": 0.1
+  }, {
+    "name": "Judge",
+    "category": "Shotgun",
+    "price": 1500,
+    "damage": {
+      "head": {
+        "0-10": 34,
+        "10-15": 26,
+        "15-50": 20
+      },
+      "body": {
+        "0-10": 17,
+        "10-15": 13,
+        "15-50": 10
+      },
+      "leg": {
+        "0-10": 14,
+        "10-15": 11,
+        "15-50": 9
+      }
+    },
+    "firerate": 3.5,
+    "penetration": "low",
+    "magazinsize": 7,
+    "runspeed": 0.75,
+    "reload": 2.2,
+    "firstbulletacc": 2.25
+  }, {
+    "name": "Marshal",
+    "category": "Sniper",
+    "price": 1100,
+    "damage": {
+      "head": {
+        "0-50": 202
+      },
+      "body": {
+        "0-50": 101
+      },
+      "leg": {
+        "0-50": 85
+      }
+    },
+    "firerate": 1.5,
+    "penetration": "medium",
+    "magazinsize": 5,
+    "runspeed": 0.8,
+    "reload": 2.5,
+    "firstbulletacc": 1
+  }, {
+    "name": "Melee",
+    "category": "Melee",
+    "price": 0,
+    "damage": null,
+    "firerate": 2,
+    "penetration": "low",
+    "magazinsize": 1,
+    "runspeed": 1,
+    "reload": 0,
+    "firstbulletacc": 100
+  }, {
+    "name": "Odin",
+    "category": "Heavy",
+    "price": 3200,
+    "damage": {
+      "head": {
+        "0-30": 95,
+        "30-50": 77
+      },
+      "body": {
+        "0-30": 38,
+        "30-50": 31
+      },
+      "leg": {
+        "0-30": 32,
+        "30-50": 26
+      }
+    },
+    "firerate": 10,
+    "penetration": "high",
+    "magazinsize": 50,
+    "runspeed": 0.76,
+    "reload": 3.25,
+    "firstbulletacc": 0.8
+  }, {
+    "name": "Operator",
+    "category": "Sniper",
+    "price": 4500,
+    "damage": {
+      "head": {
+        "0-50": 255
+      },
+      "body": {
+        "0-50": 150
+      },
+      "leg": {
+        "0-50": 127
+      }
+    },
+    "firerate": 0.75,
+    "penetration": "high",
+    "magazinsize": 5,
+    "runspeed": 0.76,
+    "reload": 3.7,
+    "firstbulletacc": 5
+  }, {
+    "name": "Phantom",
+    "category": "Rifle",
+    "price": 2900,
+    "damage": {
+      "head": {
+        "0-15": 156,
+        "15-30": 140,
+        "30-50": 124
+      },
+      "body": {
+        "0-15": 39,
+        "15-30": 35,
+        "30-50": 31
+      },
+      "leg": {
+        "0-15": 33,
+        "15-30": 30,
+        "30-50": 26
+      }
+    },
+    "firerate": 11,
+    "penetration": "medium",
+    "magazinsize": 30,
+    "runspeed": 0.8,
+    "reload": 2.5,
+    "firstbulletacc": 0.2
+  }, {
+    "name": "Sheriff",
+    "category": "Sidearm",
+    "price": 800,
+    "damage": {
+      "head": {
+        "0-30": 159,
+        "30-50": 145
+      },
+      "body": {
+        "0-30": 55,
+        "30-50": 50
+      },
+      "leg": {
+        "0-30": 46,
+        "30-50": 42
+      }
+    },
+    "firerate": 4,
+    "penetration": "high",
+    "magazinsize": 6,
+    "runspeed": 0.8,
+    "reload": 2.25,
+    "firstbulletacc": 0.25
+  }, {
+    "name": "Shorty",
+    "category": "Sidearm",
+    "price": 200,
+    "damage": {
+      "head": {
+        "0-9": 36,
+        "9-15": 24,
+        "15-50": 9
+      },
+      "body": {
+        "0-9": 12,
+        "9-15": 8,
+        "15-50": 3
+      },
+      "leg": {
+        "0-9": 10,
+        "9-15": 4,
+        "15-50": 2
+      }
+    },
+    "firerate": 3.33,
+    "penetration": "low",
+    "magazinsize": 2,
+    "runspeed": 0.8,
+    "reload": 1.75,
+    "firstbulletacc": 4
+  }, {
+    "name": "Spectre",
+    "category": "SMG",
+    "price": 1600,
+    "damage": {
+      "head": {
+        "0-20": 78,
+        "20-50": 66
+      },
+      "body": {
+        "0-20": 26,
+        "20-50": 22
+      },
+      "leg": {
+        "0-20": 22,
+        "20-50": 16
+      }
+    },
+    "firerate": 13.3333,
+    "penetration": "low",
+    "magazinsize": 30,
+    "runspeed": 0.85,
+    "reload": 2.25,
+    "firstbulletacc": 0.4
+  }, {
+    "name": "Stinger",
+    "category": "SMG",
+    "price": 1000,
+    "damage": {
+      "head": {
+        "0-20": 67,
+        "20-50": 62
+      },
+      "body": {
+        "0-20": 27,
+        "20-50": 25
+      },
+      "leg": {
+        "0-20": 23,
+        "20-50": 21
+      }
+    },
+    "firerate": 18,
+    "penetration": "low",
+    "magazinsize": 20,
+    "runspeed": 0.85,
+    "reload": 2.25,
+    "firstbulletacc": 0.65
+  }, {
+    "name": "Vandal",
+    "category": "Rifle",
+    "price": 2900,
+    "damage": {
+      "head": {
+        "0-50": 156
+      },
+      "body": {
+        "0-50": 39
+      },
+      "leg": {
+        "0-50": 33
+      }
+    },
+    "firerate": 9.25,
+    "penetration": "medium",
+    "magazinsize": 25,
+    "runspeed": 0.8,
+    "reload": 2.5,
+    "firstbulletacc": 0.25
+  }],
+  "status": 200,
+  "error": ""
+}
